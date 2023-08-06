@@ -32,3 +32,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+// To change the favicon file, choose any png file , go to favicon.io website and choose a converter. then use the converter to convert png files to ico files , when ypu download, you will have a compressed file, extract it and then there will be a ico compressed file, drag and drop it into the desktop, you will get a favicon.ico file in desktop. then use that file in the desktop and drag drop in the respective position the vs code, as it should be.
